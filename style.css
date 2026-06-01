@@ -1,0 +1,43 @@
+/* Cor pastel escolhida */
+body {
+    background-color: #FDE2E4;
+    font-family: Arial, sans-serif;
+    margin: 2rem;
+}
+
+/* Título */
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+/* Tabela */
+table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    table-layout: fixed;
+}
+
+/* Cabeçalho e células */
+th,
+td {
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 0.8rem;
+}
+
+/* Cabeçalho */
+th {
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    background-color: #e8e8e8;
+}
+
+/* Linhas da tabela */
+tr {
+    background-color: #f8f8f8;
+    margin: 0.5rem;
+}
